@@ -1,0 +1,41 @@
+{
+  "Doctors": [
+    {
+      "id": "1",
+      "name": "dr partha sarathi roy",
+      "speciallist": "cardiologist"
+    },
+    {
+      "id": "2",
+      "name": "dr tanima das bhatterjeee",
+      "speciallist": "neprologist"
+    }
+  ],
+  "Pation": [
+    {
+      "id": "bb4d",
+      "name": "32101220001",
+      "email": "nn'"
+    },
+    {
+      "id": "0a6b",
+      "name": "kaifi01",
+      "email": ""
+    },
+    {
+      "id": "eeb4",
+      "name": "roni",
+      "email": "roni@gmail.com"
+    },
+    {
+      "id": "83f4",
+      "name": "kaifi mallick",
+      "email": "atriya@gmail.com"
+    },
+    {
+      "id": "4581",
+      "name": "32101220001",
+      "email": "roni@gmail.com"
+    }
+  ]
+}
